@@ -20,4 +20,5 @@
 - 经过预处理的中文语料，链接：https://pan.baidu.com/s/1UzFXeUv9SG93y9hz0jEGyw?pwd=4iw3 
 - 模型权重，chinese_sformer_L-6_H-768_A-12_S-8，链接：https://pan.baidu.com/s/1WiBu-_QLvVwmSblsVQwLlw?pwd=gv50 
 - 模型权重，chinese_sformer_L-6_H-768_A-12_S-16，链接：https://pan.baidu.com/s/1dlK2OfFhj7UTnGG_fUZBKA?pwd=sv4f 
+- Plato-memory，链接：https://github.com/Wu-Jiayang/Plato-memory
 - 链接失效可联系651475459@qq.com
